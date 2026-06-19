@@ -1,2 +1,1 @@
-# RFID-
-RFID (Radio Frequency Identification) is a wireless technology used to identify and track objects, animals, or people using radio waves. It allows data to be transferred automatically without physical contact between the reader and the tagged object.
+The LED Blink project is a basic embedded systems application that controls an LED to turn ON and OFF at regular intervals. It demonstrates digital output control, timing functions, and microcontroller programming fundamentals.https://wokwi.com/projects/466254984862221313
